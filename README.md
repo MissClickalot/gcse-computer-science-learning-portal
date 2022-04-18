@@ -11,5 +11,8 @@ GCSE Computer Science learning portal features:
 - Specific filtering options to find the exact type of content you need (e.g. formative assessment, examination questions, full tutorial pages, etc.) 
 ## Requirements
 In order to run GCSE Computer Science learning portal, you will need Python installed on your machine.
+## Distribution
+The dist folder currently contains just the windows distribution, others to follow.
+**To run the windows program, simply execute the file called 'dist\11_final_gui_implementation\11_final_gui_implementation.exe'.**
 ## Installation
-The program can be downloaded in compiled form for Windows, macOS, and Linux.
+The codebase can be downloaded in compiled form for Windows, macOS, and Linux.
