@@ -1,0 +1,13 @@
+source name,content type name,content type ID,description
+Bit by bit,Step-by-step tutorial,tutorial,"A complete topic-focused tutorial guide containing everything you need to LEARN, CHECK, APPLY, EXAMINE, and STRETCH yourself."
+Bit by bit,Explainer,presentation_embedded,"Multi-step interactive stories that teach a concept, technique, or skill."
+Bit by bit,Interactive challenge,interaction,"Formative assessment activities, testing learning along the way."
+Bit by bit,Optional challenge,pick_n_mix,"Blended tasks that range from quizzes, individual research assignments, pairing exercises, and mini coding challenges."
+Bit by bit,Stretch activity,stretch_activity,"Extension tasks to take learning to the 'next level'; delve into an A-level (and above) equivalent of the same topic."
+Bit by bit,Bitesize snippet,theory_snippet,"Small 'atom-sized' explanations of a single idea of skill."
+Bit by bit,Key points summary,theory_focus,"All of the important takeaway points from each topic, conveniently summarised in easy to consume lists."
+Bit by bit,Examination question,examination_question,"Individual questions drawing on knowledge of a single concept or a mix of topics in exam question formats."
+Bit by bit,Examination,examination,"Used for both formative assessment and summative assessment; these are topic-specific or mixed mock exam style papers."
+Isaac CS,Concept,isaacConceptPage,"An explanation of a concept."
+Isaac CS,Topic,isaacTopicSummaryPage,"A wider collection of concepts."
+Isaac CS,Question,isaacQuestionPage,"Formative assessment activities, testing learning along the way."

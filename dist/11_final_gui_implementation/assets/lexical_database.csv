@@ -1,0 +1,153 @@
+word,stemming alternatives,synonyms,abbreviation
+computer science,,computing,cs
+decimal,,denary|base 10,
+binary,,base 2,
+hexadecimal,hex,base 16,
+nibble,,nybble,
+kilobyte,kilo,,kb
+kibibyte,kibi,,kib
+megabyte,mega,,mb
+mebibyte,mebi,,mib
+gigabyte,giga|gig,,gb
+gibibyte,gibi,,gib
+terabyte,tera,,tb
+tebibyte,tebi,,tib
+petabyte,peta,,pb
+pebibyte,pebi,,pib
+graphical,graphic,image,img
+sound,,audio,
+american standard code information interchange,,,ascii
+run length encoding,,,rle
+central processing unit,,processor|microprocessor,cpu
+graphics processing unit,,,gpu
+random access memory,,,ram
+read only memory,,,rom
+secondary,,backing,
+light emitting diode,,,led
+liquid crystal display,,,lcd
+digital light projector,,,dlp
+application,app,,
+operating system,,,os
+digital signal processing,,,dsp
+set reset,,,sr
+delay type,,,d type
+integrated circuit,,,ic
+karnaugh map,,,k map
+coding,code,programming,program,
+arithmetic,mathematic,,
+assembly,assembler,,
+just in time,,,jit
+object orientated,,,oo
+integrated development environment,,,ide
+list,,array,
+relational,,comparison,
+collection,,container,
+one dimensional,,,1d
+two dimensional,,,2d
+boundary,,extreme,
+runtime,,execution,
+subroutine,,procedure|method|function,
+iteration,iterate|iterating,loop|looping,
+<,,less than,
+>,,greater than,
+=,,equal,
++,,plus|add,
+-,,minus|subtract,
+mathematics,maths,,
+implementation,implement,,
+documentation,document,,
+testing,test,,
+user acceptance testing,,,uat
+algorithmic,algorithm,,
+abstraction,abstract,,
+decomposition,decompose,,
+conditional,condition,,
+iteration,iterate|iterating,,
+looping,loop,,
+repetition,repeat,,
+counting,count,,
+insertion,insert,,
+casting,cast,,
+addition,add,,
+subtraction,subtract,,
+division,divide,,
+multiplication,multiply,,
+exponentiation,exponent,,
+debugging,debugger|debug,,
+analysis,analyse,,
+validation,validate|valid,,
+verification,verify,,
+authentication,authenticate,,
+simulation,simulator|simulate,,
+compression,compress,,
+investigation,investigate,,
+evaluation,evaluate,,
+criterion,criteria,,
+logical,logic,,
+storyboarding,storyboard,,
+graphical user interface,,,gui
+user experience,,,ux
+user interface,,,ui
+networking,network,,
+connection,connect,,
+transmission,transmit,,
+personal area network,,,pan
+local area network,,,lan
+wide area network,,,wan
+world wide web,,,www
+network interface controller,,network interface card,nic
+wireless network interface controller,,wireless network interface card,wnic
+wireless access point,,,wap
+universal serial bus,,,usb
+internet protocol,,,ip
+media access control,,,mac
+uniform resource locator,,,url
+domain name system,,,dns
+internet service provider,,,isp
+transmission control protocol,,,tcp
+open systems interconnection,,,osi
+user datagram protocol,,,udp
+hypertext transfer protocol,,,http
+hypertext transfer protocol secure,,,https
+file transfer protocol,,,ftp
+simple mail transfer protocol,,,smtp
+internet message access protocol,,,imap
+post office protocol,,,pop
+wired equivalent privacy,,,wep
+wifi protected access,,,wpa
+virtual private network,,,vpn
+completely automated public turing test computers humans apart,,,captcha
+secure socket layer,,,ssl
+transport layer security,,,tls
+secure shell,,,ssh
+internet of things,,,iot
+global positioning system,,,gps
+artificial intelligence,,,ai
+virtual reality,,,vr
+augmented reality,,,ar
+general data protection regulation,,,gdpr
+creative commons,,,cc
+incremental,increment,,
+accidental,accident,,
+archiving,archive,,
+spamming,spam,,
+robotic,robot,,
+ownership,owner|own,,
+ethical,ethics,,
+employment,employer|employee|employ,,
+cultural,culture,,
+environmental,environment,,
+cryptographic, cryptography,,
+animation,animate,,
+plaintext,,,txt
+musical instrument digital interface,,,midi
+tab separated value,,,tsv
+comma separated value,,,csv
+rich text format,,,rtf
+portable document format,,,pdf
+cascading style sheet,,,css
+structured query language,,,sql
+hypertext markup language,,,html
+router,,hub|switch|bridge,
+repeater,,booster,
+shouldering,,shoulder surfing,

@@ -1,0 +1,4 @@
+source name,source domain,operator,filter operator,auto boost,default provider
+Bit by bit,https://bit-by-bit.org,/search?search_api_fulltext=,&f%5B0%5D=type_of_content:,False,False
+BBC Bitesize,https://www.bbc.co.uk/bitesize,/search?q=,,True,False
+Isaac CS,https://isaaccomputerscience.org,/search?query=,&types=,True,True
